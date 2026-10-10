@@ -1,51 +1,88 @@
-<h1 align="center">Hi there, I'm Hari Vishnu N 👋</h1>
-
-<p align="center">
-  <strong>B.Tech in Artificial Intelligence & Data Science | Saveetha Engineering College (SIMATS)</strong><br>
-  <em>Passionate about solving complex problems through data, machine learning, and embedded systems.</em>
-</p>
-
----
-
-### 🚀 What I'm Working On
-
-- 🔭 **Current Project:** Building an AI-driven cybersecurity defense system for network anomaly and vulnerability detection.
-- 💡 **Hardware Integration:** Developed an energy theft detection system using differential current comparison (Arduino/Sensors).
-- 🤖 **Data & Algorithms:** Implementing advanced data structures, sorting algorithms, and numerical computing using Python, C, and C++.
-- 📊 **Machine Learning:** Working with NLP (Passive-Aggressive Classifiers) for fake news detection and graph-based models for financial fraud detection.
-
-### 🛠️ Tech Stack & Tools
-
-**Languages:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Data Science & Machine Learning:**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-**Tools & Networking:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+<div align="center">
+  <h1>Hi, I'm Hari Vishnu N 👨‍💻</h1>
+  <h3>AI & Data Science | Machine Learning | Embedded Systems</h3>
+  <p>B.Tech AI & DS Student @ Saveetha Engineering College (SIMATS) 🎓</p>
+  
+  <p align="center">
+    <!-- REPLACE 'hari-vishnu-n' WITH YOUR ACTUAL USERNAME -->
+      <a href="https://www.linkedin.com/in/hari-vishnu-n" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <!-- REPLACE 'HARI_VISHNU_N' WITH YOUR ACTUAL USERNAME -->
+    <a href="https://leetcode.com/u/HARI_VISHNU_N/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    </a>
+    <!-- REPLACE 'NHARIVISHNU31072008@GMAIL.COM' WITH YOUR ACTUAL EMAIL -->
+    <a href="mailto:nharivishnu31072008@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 👨‍🔧 About Me
+
+* 🎓 **Academics:** Pursuing B.Tech in Artificial Intelligence & Data Science.
+* 💻 **Current Focus:** Building an AI-Driven Intelligent Network Anomaly Defense System & Graph-Based Fraud Detection models.
+* ⚙️ **Hardware/IoT:** Designed an Energy Theft Detection system utilizing Differential Current Comparison algorithms.
+* 🧠 **Problem Solving:** Actively optimizing algorithms on **LeetCode** using Python, C, and C++.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <b>Languages</b><br><br>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"> <br>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"> <br>
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"> <br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+    </td>
+    <td valign="top" width="33%">
+      <b>Data Science & ML</b><br><br>
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"> <br>
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"> <br>
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black"> <br>
+      <img src="https://img.shields.io/badge/SymPy-326B22?style=flat-square&logo=python&logoColor=white">
+    </td>
+    <td valign="top" width="33%">
+      <b>Tools & Hardware</b><br><br>
+      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"> <br>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"> <br>
+      <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white"> <br>
+      <img src="https://img.shields.io/badge/Packet_Tracer-049FD9?style=flat-square&logo=cisco&logoColor=white"> <br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Analytics & Coding Stats
+
+<div align="center">
+  <a href="https://github.com/HariVishnuN">
+    <img src="https://github-readme-stats.vercel.app/api?username=HariVishnuN&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/HariVishnuN">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariVishnuN&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- REPLACE 'HARI_VISHNU_N' HERE AS WELL TO SHOW YOUR ACTUAL STATS -->
+  <a href="https://leetcode.com/HARI_VISHNU_N">
+    <img src="https://leetcard.jacoblin.cool/HARI_VISHNU_N?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HariVishnuN&show_icons=true&theme=tokyonight" alt="Hari's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariVishnuN&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="nharivishnu31072008@gmail.com "><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="www.linkedin.com/in/hari-vishnu-n"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" width="100%"/>
 </p>
