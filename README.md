@@ -94,3 +94,7 @@ A machine learning pipeline built to classify and filter misinformation across s
 ---
 
 **Contact:** [nharivishnu31072008@gmail.com](mailto:nharivishnu31072008@gmail.com) | +91 9123539752
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" width="100%"/>
+</p>
