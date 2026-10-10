@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm an Artificial Intelligence and Data Science undergraduate at Saveetha Engineering College (SIMATS), focused on bridging the gap between algorithmic software logic and physical hardware integration. 
+I'm an Artificial Intelligence and Data Science undergraduate at SIMATS engineering , focused on bridging the gap between algorithmic software logic and physical hardware integration. 
 
 I enjoy building practical systems that combine machine learning, cybersecurity, and IoT to solve real-world problems.
 
@@ -18,7 +18,6 @@ I enjoy building practical systems that combine machine learning, cybersecurity,
 * 🎯 **Focus Areas:** Machine Learning, Natural Language Processing, and Embedded Systems
 * 💻 **Currently Learning:** Advanced data structures and optimizing algorithms on LeetCode
 * ⚙️ **Building:** AI-driven network vulnerability defense systems and hardware IoT solutions
-* 🎥 **Content:** Creator of the entertainment YouTube channel, *Reality_View*
 
 ---
 
