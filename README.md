@@ -1,88 +1,98 @@
-<div align="center">
-  <h1>Hi, I'm Hari Vishnu N 👨‍💻</h1>
-  <h3>AI & Data Science | Machine Learning | Embedded Systems</h3>
-  <p>B.Tech AI & DS Student @ Saveetha Engineering College (SIMATS) 🎓</p>
-  
-  <p align="center">
-    <!-- REPLACE 'hari-vishnu-n' WITH YOUR ACTUAL USERNAME -->
-      <a href="https://www.linkedin.com/in/hari-vishnu-n" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <!-- REPLACE 'HARI_VISHNU_N' WITH YOUR ACTUAL USERNAME -->
-    <a href="https://leetcode.com/u/HARI_VISHNU_N/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-    </a>
-    <!-- REPLACE 'NHARIVISHNU31072008@GMAIL.COM' WITH YOUR ACTUAL EMAIL -->
-    <a href="mailto:nharivishnu31072008@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+# Hari Vishnu N
+
+**AI & Data Science | Machine Learning | Embedded Systems**
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-vishnu-n)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HARI_VISHNU_N)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nharivishnu31072008@gmail.com)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Reality_View)
 
 ---
 
-### 👨‍🔧 About Me
+## About Me
 
-* 🎓 **Academics:** Pursuing B.Tech in Artificial Intelligence & Data Science.
-* 💻 **Current Focus:** Building an AI-Driven Intelligent Network Anomaly Defense System & Graph-Based Fraud Detection models.
-* ⚙️ **Hardware/IoT:** Designed an Energy Theft Detection system utilizing Differential Current Comparison algorithms.
-* 🧠 **Problem Solving:** Actively optimizing algorithms on **LeetCode** using Python, C, and C++.
+I'm an Artificial Intelligence and Data Science undergraduate at Saveetha Engineering College (SIMATS), focused on bridging the gap between algorithmic software logic and physical hardware integration. 
 
----
+I enjoy building practical systems that combine machine learning, cybersecurity, and IoT to solve real-world problems.
 
-### 🛠️ Technical Arsenal
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <b>Languages</b><br><br>
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"> <br>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-    </td>
-    <td valign="top" width="33%">
-      <b>Data Science & ML</b><br><br>
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black"> <br>
-      <img src="https://img.shields.io/badge/SymPy-326B22?style=flat-square&logo=python&logoColor=white">
-    </td>
-    <td valign="top" width="33%">
-      <b>Tools & Hardware</b><br><br>
-      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/Packet_Tracer-049FD9?style=flat-square&logo=cisco&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-    </td>
-  </tr>
-</table>
+* 🎓 **Academics:** B.Tech in Artificial Intelligence & Data Science
+* 🎯 **Focus Areas:** Machine Learning, Natural Language Processing, and Embedded Systems
+* 💻 **Currently Learning:** Advanced data structures and optimizing algorithms on LeetCode
+* ⚙️ **Building:** AI-driven network vulnerability defense systems and hardware IoT solutions
+* 🎥 **Content:** Creator of the entertainment YouTube channel, *Reality_View*
 
 ---
 
-### 📊 Analytics & Coding Stats
+## Technical Skills
 
-<div align="center">
-  <a href="https://github.com/HariVishnuN">
-    <img src="https://github-readme-stats.vercel.app/api?username=HariVishnuN&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/HariVishnuN">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariVishnuN&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
-  </a>
-</div>
+### Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,mysql" />
+</a>
+
+### Data Science & Machine Learning
+`Pandas` `NumPy` `Matplotlib` `SymPy` `Scikit-Learn` `NLP` `Passive-Aggressive Classifiers`
+
+### Tools & Hardware
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,arduino,raspberrypi" />
+</a>
+<br>
+`Cisco Packet Tracer` `Wireshark` `8051 Microcontrollers`
+
+---
+
+## Featured Projects
+
+### 🛡️ AI-Driven Intelligent Network Anomaly Defense System
+A comprehensive cybersecurity capstone project focused on detecting network anomalies and defending against vulnerabilities using artificial intelligence.
+
+**Key Features**
+* Multi-module cybersecurity architecture
+* Real-time network anomaly detection
+* Vulnerability scanning and automated defense mechanisms
+* Graph-based mapping for system node monitoring
+
+**Technology**
+`Python` `Machine Learning` `Networking` `Cybersecurity`
 
 <br>
 
-<div align="center">
-  <!-- REPLACE 'HARI_VISHNU_N' HERE AS WELL TO SHOW YOUR ACTUAL STATS -->
-  <a href="https://leetcode.com/HARI_VISHNU_N">
-    <img src="https://leetcard.jacoblin.cool/HARI_VISHNU_N?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</div>
+### ⚡ Energy Theft Detection Using Differential Current
+An embedded systems IoT hardware project designed to detect energy theft by monitoring and comparing differential currents in real-time.
+
+**Key Features**
+* Custom hardware circuit design and integration
+* Real-time differential current monitoring logic
+* Sensor data processing and automated alerting
+* Built with Arduino UNO and ACS712 sensors
+
+**Technology**
+`Arduino UNO` `C++` `ACS712 Sensors` `IoT`
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" width="100%"/>
-</p>
+### 📰 Fake News Detection using NLP
+A machine learning pipeline built to classify and filter misinformation across social media networks using natural language processing.
+
+**Key Features**
+* Text preprocessing and tokenization
+* Passive-aggressive classifier implementation
+* PICO framework integration for research formulation
+* High-accuracy prediction models
+
+**Technology**
+`Python` `NLP` `Scikit-Learn` `Pandas`
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HariVishnuN&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HariVishnuN&theme=transparent&hide_border=true&title_color=0078D4&text_color=ffffff&icon_color=0078D4&background=0d1117" alt="GitHub Streak" width="45%" />
+</div>
+
+---
+
+**Contact:** [nharivishnu31072008@gmail.com](mailto:nharivishnu31072008@gmail.com) | +91 9123539752
