@@ -42,45 +42,6 @@ I enjoy building practical systems that combine machine learning, cybersecurity,
 
 ## Featured Projects
 
-### 🛡️ AI-Driven Intelligent Network Anomaly Defense System
-A comprehensive cybersecurity capstone project focused on detecting network anomalies and defending against vulnerabilities using artificial intelligence.
-
-**Key Features**
-* Multi-module cybersecurity architecture
-* Real-time network anomaly detection
-* Vulnerability scanning and automated defense mechanisms
-* Graph-based mapping for system node monitoring
-
-**Technology**
-`Python` `Machine Learning` `Networking` `Cybersecurity`
-
-<br>
-
-### ⚡ Energy Theft Detection Using Differential Current
-An embedded systems IoT hardware project designed to detect energy theft by monitoring and comparing differential currents in real-time.
-
-**Key Features**
-* Custom hardware circuit design and integration
-* Real-time differential current monitoring logic
-* Sensor data processing and automated alerting
-* Built with Arduino UNO and ACS712 sensors
-
-**Technology**
-`Arduino UNO` `C++` `ACS712 Sensors` `IoT`
-
-<br>
-
-### 📰 Fake News Detection using NLP
-A machine learning pipeline built to classify and filter misinformation across social media networks using natural language processing.
-
-**Key Features**
-* Text preprocessing and tokenization
-* Passive-aggressive classifier implementation
-* PICO framework integration for research formulation
-* High-accuracy prediction models
-
-**Technology**
-`Python` `NLP` `Scikit-Learn` `Pandas`
 
 ---
 
